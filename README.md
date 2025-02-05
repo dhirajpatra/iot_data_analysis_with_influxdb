@@ -1,4 +1,4 @@
-# iot_data_analyzing_with_influxdb
+# IoT Data Analyzing With Influxdb
 Analyzing IoT Data Using InfluxDB, Python, and Modbus
 
 ### **📌 IoT Warehouse Monitoring System**  
