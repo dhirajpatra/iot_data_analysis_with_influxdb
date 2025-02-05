@@ -81,6 +81,11 @@ Analyzing IoT Data Using InfluxDB, Python, and Modbus
 wget https://dl.influxdata.com/influxdb/releases/influxdb_2.0.9_amd64.deb
 sudo dpkg -i influxdb_2.0.9_amd64.deb
 ```
+
+or you can use Docker as well
+
+`docker run -p 8086:8086 -v influxdb:/var/lib/influxdb -e INFLUXDB_DB=iotdb influxdb`
+
 #### **🔹 Start InfluxDB**
 ```sh
 sudo systemctl start influxdb
