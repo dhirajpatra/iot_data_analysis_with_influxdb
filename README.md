@@ -128,6 +128,60 @@ Contributions are welcome! If you'd like to improve this project:
 
 ---
 
+### **📩 How to Contribute**  
+
+We welcome contributions from the community! Follow these steps to contribute:  
+
+#### **1️⃣ Fork the Repository**  
+Click the **"Fork"** button on the top right corner of this repository to create your own copy.  
+
+#### **2️⃣ Clone Your Fork**  
+```sh
+git clone https://github.com/YOUR-USERNAME/IOT-Warehouse-Monitoring.git
+cd IOT-Warehouse-Monitoring
+```
+
+#### **3️⃣ Create a New Branch**  
+```sh
+git checkout -b feature-branch
+```
+Replace `feature-branch` with a meaningful name for your changes.
+
+#### **4️⃣ Make Your Changes**  
+Modify the code, fix bugs, or add new features.
+
+#### **5️⃣ Commit Your Changes**  
+```sh
+git add .
+git commit -m "Added feature XYZ"
+```
+
+#### **6️⃣ Push to Your Fork**  
+```sh
+git push origin feature-branch
+```
+
+#### **7️⃣ Create a Pull Request (PR)**  
+1. Go to the original repository:  
+   👉 **https://github.com/ORIGINAL-OWNER/IOT-Warehouse-Monitoring**  
+2. Click **"Compare & pull request"**  
+3. Add a meaningful title and description  
+4. Click **"Create pull request"**  
+
+🎉 **Your contribution will be reviewed, and once approved, it will be merged!** 🚀  
+
+---  
+
+**💡 Guidelines for Contribution:**  
+✔ Follow clean coding practices  
+✔ Add comments and documentation  
+✔ Ensure your code works before submitting  
+✔ If fixing a bug, describe the issue clearly  
+
+Thank you for contributing! 😊🔥
+
+---
+
 ## **📜 License**
 📄 MIT License - **Free to use, modify, and distribute.**  
 
